@@ -11,7 +11,7 @@ yb = 300
 #ycol = [60,60,60,60]
 #xb = 200
 #yb = 200
-p = 2.1
+p = 2.005
 def drawcolor(num):
     mouse.move(x=xcol[num],y=ycol[num])
     mouse.click()
